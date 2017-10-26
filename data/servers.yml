@@ -335,3 +335,15 @@
   test_url: ""
   production_ready: true
   gov_domain: true
+- name: "Ottawa, ON"
+  country: "CDN"
+  api_documentation: "https://city-of-ottawa-prod.apigee.net/open311/v2/discovery.json"
+  api_issue_tracker: "https://github.com/open311/open311.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Adc.gov"
+  api_key_request: "https://ottawa.ca/en/open311-api-key-registration-form"
+  jurisdiction_id: "ottawa.ca"
+  api_discovery: "https://city-of-ottawa-prod.apigee.net/open311/v2/discovery.json"
+  version: "georeport-v2"
+  base_url: "https://city-of-ottawa-prod.apigee.net/open311/v2/services.xml?"
+  test_url: "https://city-of-ottawa-dev.apigee.net/open311/v2/discovery.json"
+  production_ready: true
+  gov_domain: true
